@@ -1,0 +1,8 @@
+{
+  "name": "Copy of VClip AI - Long to Short Clipper",
+  "description": "Transform long-form videos into viral vertical shorts (9:16) with AI-powered highlight detection, automatic subtitles, and customizable text styling.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
